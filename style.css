@@ -38,6 +38,7 @@ h1{
     background-size: cover;
     color: white;
     cursor: pointer;
+    text-transform: uppercase;
 }
 
 .btn:hover{
